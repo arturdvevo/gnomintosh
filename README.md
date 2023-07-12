@@ -127,6 +127,16 @@ Please ensure that your contributions align with the project's goals and follow 
 ## Credits
 GTK Theme - https://github.com/vinceliuice/WhiteSur-gtk-theme
 
-Icon - https://github.com/vinceliuice/WhiteSur-icon-theme
 
-Cursor - https://github.com/vinceliuice/WhiteSur-cursors
+
+Yeah nobody cares now for my stuff!!!!
+
+EXTENSIONS!!!!:
+
+
+SETTINGS!!!!!:
+
+
+APPS!!!!:
+
+
