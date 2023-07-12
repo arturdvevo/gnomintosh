@@ -124,8 +124,7 @@ Contributions are welcome! If you would like to contribute to Gnomintosh, please
 
 Please ensure that your contributions align with the project's goals and follow any existing coding conventions.
 
-## Credits
-GTK Theme - https://github.com/vinceliuice/WhiteSur-gtk-theme
+## NOBODY CARES LOOOOLL :trollface:
 
 
 
