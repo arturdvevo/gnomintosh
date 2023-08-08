@@ -130,12 +130,12 @@ Please ensure that your contributions align with the project's goals and follow 
 
 Yeah nobody cares now for my stuff!!!!
 
-EXTENSIONS!!!!:
+EXTENSIONS!!!!: Blur my shell, Compiz windows effect, Custom accent colors, Dash to dock, desktop icons NG (DING), Freon, Just Perfection, Logo Menu, Rounded Window Corners, Top Bar Organizer, Unblank lock screen. CURSOR: WINDOWS VISTA
 
 
-SETTINGS!!!!!:
+SETTINGS!!!!!: Font: 0.96
 
 
-APPS!!!!:
+APPS!!!!: Kitty, fish, Thorium
 
 
