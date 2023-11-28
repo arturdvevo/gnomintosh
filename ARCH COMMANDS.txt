@@ -1,0 +1,30 @@
+Things to get: (Obviously GNOME first)
+https://github.com/jothi-prasath/gnomintosh
+https://aur.archlinux.org/openrgb.git
+https://www.gnome-look.org/p/1795042/
+https://aur.archlinux.org/thorium-browser-bin.git
+https://aur.archlinux.org/heroic-games-launcher-bin.git
+https://aur.archlinux.org/discord-canary-electron-bin.git
+https://aur.archlinux.org/tor-browser-bin.git
+sudo pacman -S neofetch
+
+
+
+LINKS:
+https://archlinux.org/packages/extra/any/lutris/
+https://github.com/GloriousEggroll/proton-ge-custom
+https://github.com/DadSchoorse/vkBasalt
+https://vimm.net/?p=vault
+https://vencord.dev/download/
+https://archlinux.org/packages/extra/x86_64/jdk17-openjdk/
+
+
+
+Flatpaks:
+Dolphin
+Heroic Games Launcher
+(OpenRGB?)
+Steam
+Lunar Client
+dconf
+Whatever else i want when i see it LOOOL!
