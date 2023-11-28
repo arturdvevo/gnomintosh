@@ -5,7 +5,6 @@ https://www.gnome-look.org/p/1795042/
 https://aur.archlinux.org/thorium-browser-bin.git
 https://aur.archlinux.org/heroic-games-launcher-bin.git
 https://aur.archlinux.org/discord-canary-electron-bin.git
-https://aur.archlinux.org/tor-browser-bin.git
 sudo pacman -S neofetch
 
 
